@@ -1,0 +1,133 @@
+body {
+    background: black;
+}
+
+.barra{
+    background-color:green;
+    margin: 1%;
+    width: 100%;
+    color: white;
+}
+
+.texto1 {
+    margin-left: 10px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+}
+
+.texto1 a{
+    margin-left: 8px;
+    color: white;
+    text-decoration: none;
+}
+
+#perfil {
+        border-radius: 100px;
+        padding-top: 5px;
+        margin-left: 5px;
+
+
+}
+
+.circulo{
+    height: 210px;
+    width: 210px;
+    background-color: orange;
+    border-radius: 150px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.Nome {
+    color: green     
+}
+
+.Profissao {
+    color: aliceblue
+}
+
+.Sobre {
+    color: green
+}
+
+.textosobre {
+    color: aliceblue
+}
+
+.Cursos {
+    color: green
+}
+
+.Cursostexto {
+    color: aliceblue
+}
+
+.Formação {
+    color: green
+}
+
+.Formaçãotexto {
+    color: aliceblue
+}
+
+#gitfoto{
+    height: 70px;
+    height: 70px;
+    margin-left: 580px;
+    color: aliceblue
+
+}
+
+.redes {
+    color: aliceblue;
+    margin-left: 630px;
+}
+
+#linkedinfoto {
+    height: 70px;
+    width: 70px;
+
+
+}
+#instafoto {
+    height: 70px;
+    width: 70px;
+    
+}
+
+.email {
+
+    color: aliceblue;
+    margin-left: 630px;
+    margin-top: 60px;
+}
+
+.chat {
+    margin-left: 310px;
+    
+
+
+}
+
+#caixa {
+    width: 700px;
+
+}
+
+.mensagem {
+    color: aliceblue;
+    margin-left: 620px;
+}
+
+#mensagemcc {
+    width: 1100px;
+    height:200px;
+    margin-left: 100px;
+}
+
+.projetos {
+    color: aliceblue;
+    margin-left: 590px;
+}
+
